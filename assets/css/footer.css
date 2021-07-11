@@ -1,0 +1,17 @@
+.footer {
+  background-color: var(--accent-color);
+  padding: 50px 0;
+  color:var(--second-bg-color);
+}
+.footer-row {
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.footer-heading {
+  font-weight: 500;
+  font-size: 1.3rem;
+  margin-bottom: 1.1rem;
+}
+.footer-text {
+  font-size: 13px;
+}

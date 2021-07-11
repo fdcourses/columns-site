@@ -1,0 +1,7 @@
+.numbers {
+  background-color: var(--accent-color);
+  padding: 3rem;
+}
+.number-wrapper {
+  margin: 10px 0;
+}

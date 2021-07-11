@@ -8,6 +8,9 @@
   font-size: 14px;
   font-family: "Roboto", sans-serif;
 }
+.img-100 {
+  width: 100%;
+}
 .js-center {
   justify-content: center;
 }
