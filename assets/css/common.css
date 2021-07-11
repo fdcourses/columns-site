@@ -8,7 +8,9 @@
   font-size: 14px;
   font-family: "Roboto", sans-serif;
 }
-
+.js-center {
+  justify-content: center;
+}
 .link {
   text-decoration: none;
   color: inherit;
